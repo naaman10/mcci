@@ -1,6 +1,6 @@
-# Coffee 4 Craig Wesbite
+# Manchester Clean Canals Initiative
 
-**Note:** This site is based off the [Gatsby + Netlify CMS Starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
+**Note:** Using [Gatsby + Netlify CMS Starter](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@
 
 ## Getting Started (Recommended)
 
-Pull down a local copy of this repository 
+Pull down a local copy of this repository
 
 ```
 $ git clone https://github.com/[GITHUB_USERNAME]/[REPO_NAME].git
